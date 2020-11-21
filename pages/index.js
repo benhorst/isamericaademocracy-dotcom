@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-         Yes.
+         Yes. As of 11/20/2020.
         </p>
       </main>
       <footer className={styles.footer}>
