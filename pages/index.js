@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-         Yes. As of 11/20/2020, America is still a democracy.
+         Yes. As of 12/14/2020, America is still a democracy. Joe Biden is the president elect.
         </p>
         <div>
           <Image
@@ -28,8 +28,8 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-        If you want to know what's really going on, look at what outsiders say. Here's the BBC. The BBC has way less vested interest than anything domestic, yeah? You don't trust the local media? OK. Try something overseas that has no reason to lie to you.
-        <a href="https://www.bbc.com/news/election-us-2020-54783016">[BBC]</a>
+        The AP is a reliable source of news.
+        <a href="https://apnews.com/article/election-2020-joe-biden-donald-trump-elections-john-thune-e8677a7ef5fa0c1892a0d5f78d850e95">[AP on President Elect Biden]</a>
         <br />
       </footer>
     </div>
