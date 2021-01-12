@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-         Yes. As of 11/20/2020, America is still a democracy.
+         Yes. As of 01/12/2020, America is still a democracy.
         </p>
         <div>
           <Image
@@ -28,9 +28,7 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-        If you want to know what's really going on, look at what outsiders say. Here's the BBC. The BBC has way less vested interest than anything domestic, yeah? You don't trust the local media? OK. Try something overseas that has no reason to lie to you.
-        <a href="https://www.bbc.com/news/election-us-2020-54783016">[BBC]</a>
-        <br />
+        The 2020 vote has been certified by Congress.
       </footer>
     </div>
   )
