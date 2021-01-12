@@ -20,10 +20,11 @@ export default function Home() {
         </p>
         <div>
           <Image
+          width="800"
+          height="450"
+          layout="intrinsic"
         src="/vp_pelosi_certify.jpg"
         alt="Pence and Pelosi preside over joint session of Congress to ratify President-elect Joe Biden's 306-232 Electoral win."
-        width="500"
-        height="500"
       />
         </div>
       </main>
