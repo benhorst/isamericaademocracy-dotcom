@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Is America A Democracy?</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/flag.svg" />
       </Head>
 
       <main className={styles.main}>
