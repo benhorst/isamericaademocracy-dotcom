@@ -20,8 +20,8 @@ export default function Home() {
         </p>
         <div>
           <Image
-        src="/national_votes-nc.png"
-        alt="the 2020 popular vote tally for biden winning 2020"
+        src="/vp_pelosi_certify.jpg"
+        alt="Pence and Pelosi preside over joint session of Congress to ratify President-elect Joe Biden's 306-232 Electoral win."
         width="500"
         height="500"
       />
