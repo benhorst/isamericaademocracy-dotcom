@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-         Yes. As of 01/12/2020, America is still a democracy.
+         Yes. As of 01/12/2021, America is still a democracy.
         </p>
         <div>
           <Image
